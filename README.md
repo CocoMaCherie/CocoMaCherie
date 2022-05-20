@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Leia Tran - CocoMaCherie!
-- 👀 I’m interested in UX/UI, graphic design, web development and front end.
+- 👀 I’m interested in UX/UI, web and graphic design, web development and front end.
 - 🌱 I’m currently learning Javascript, HTML, CSS, Wordpress, Adobe XD/Photoshop/Illustrator.
 - 📫 For business or collaboration inquiries, DM at linkedin.com/in/leia-tran
 
